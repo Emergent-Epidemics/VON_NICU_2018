@@ -1,7 +1,7 @@
 ## Code for The Interhospital Transfer Network for Very Low Birth Weight Infants in the United States
 
 ### Citation
-Shrestha, M., Scarpino, S.V., Edwards, E.M., Greenberg, L.T. and Horbar, J.D., 2018. The Interhospital Transfer Network for Very Low Birth Weight Infants in the United States. arXiv preprint arXiv:1802.02855. 
+Shrestha, M., Scarpino, S.V., Edwards, E.M., Greenberg, L.T. and Horbar, J.D., 2018. The Interhospital Transfer Network for Very Low Birth Weight Infants in the United States. EPJ Data Science 20187:27
 
 ### Notes on the code
 The file community-entropy-and-gini.ipynb contains a definition for calculating the regionalization index.  The .R files contain the code to recreate the figures and main statistical analyses. Because of patient privacy, we are unable to make the data publicly available.  Please see below for information on requesting access to VON data.
